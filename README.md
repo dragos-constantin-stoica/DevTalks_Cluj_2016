@@ -1,6 +1,6 @@
 # Dev Talks Cluj 2016
 ###### "And now for something completely different" 
-<p align="right"><em>for those of you that love Monty Python!</em></p>
+<p align="right"><em>for those of you who love Monty Python!</em></p>
 
 In the post web online era, when everybody has at least one smartphone and does not have enough bandwidth to connect and communicate with a web server users get upset. Moreover, we started to connect to our local gadgets.
 
