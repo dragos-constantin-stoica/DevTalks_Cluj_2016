@@ -7,14 +7,14 @@
 Recipe:
 - one ounce of good web JavaScript framework that is mobile friendly - [Webix](http://www.webix.com)
 - one good, modern, and smart NoSQL database - [CouchDB](http://couchdb.apache.org/), as a bonus you get a modern REST database wiht built-in web server
-- an account on Cloudant, Bluemix or other virtual envrionment where to host an instance of CouchDB, CouchBase or compatible database
+- an account on [Cloudant](https://cloudant.com/), [Bluemix](http://www.ibm.com/cloud-computing/bluemix/), [CodeEnv](https://codeenv.com/) or other virtual envrionment where to host an instance of CouchDB, CouchBase or compatible database
 - a decent text editor
 
 Preparation:  
 Clone this repository to local envrionment.  
 Modify the web server address.  
 Publish the application.  
-:star2: Pro tip : you may use AppZip to publish your application to online database instance  
+:star2: Pro tip : you may use [AppZip](https://github.com/iqcouch/designeditor/tree/appzip) to publish your application to online database instance  
 Serve the application from CouchDB, and consume it via mobile web browser (e.g. Chrome, Safari, FireFox etc).
 
 Enjoy and have fun!
