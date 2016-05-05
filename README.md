@@ -14,7 +14,7 @@ Preparation:
 Clone this repository to local envrionment.  
 Modify the web server address.  
 Publish the application.  
-Pro tip : you may use AppZip to publish your application to online database instance  
+:star2: Pro tip : you may use AppZip to publish your application to online database instance  
 Serve the application from CouchDB, and consume it via mobile web browser (e.g. Chrome, Safari, FireFox etc).
 
 Enjoy and have fun!
